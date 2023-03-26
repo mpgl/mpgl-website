@@ -1,13 +1,13 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: Michalis Pagkalos
 date: 2022-10-24
 type: landing
 
 sections:
   - block: hero
     content:
-      title: Hugo Academic Theme
+      title: Michalis Pagkalos
       image:
         filename: hero-academic.png
       cta:
